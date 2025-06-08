@@ -1,0 +1,2 @@
+# buddybot
+chatbot friendly
