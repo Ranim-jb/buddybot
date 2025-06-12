@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+faiss-cpu
+gradio
+unstructured
+tiktoken
+pypdf
+python-docx
+langchain-groq
+sentence-transformers
+translators
+matplotlib
